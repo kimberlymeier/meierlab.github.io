@@ -1,1 +1,1 @@
-Sitemap: /meierlab/sitemap.xml
+Sitemap: /meierlab.github.io/sitemap.xml
